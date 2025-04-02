@@ -5,7 +5,7 @@
 <a target="_blank" href="https://www.facebook.com/son.huynhhong.90/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="mailto:hhongson5011@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=%23d14836" alt="Gmail" /></a>
 </p>
-<h2>📝 About me</h2>
+<h2>📝 About Me</h2>
 <ul>
   <img align="right" alt="GIF" src="https://media1.tenor.com/m/t9pwGPO3TpoAAAAC/apt.gif" width="320" height="220" />
   <li><p>🧑‍💻I am a passionate backend developer</p></li>
@@ -29,7 +29,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a></p>
-
+<h2>📋 GitHub Stats</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=huynhhongson&show_icons=true&locale=en" alt="WhiteD" /></p>
 <p><img align="center" src="https://streak-stats.demolab.com/?user=huynhhongson" alt="WhiteD" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=huynhhongson&show_icons=true&locale=en&layout=compact" alt="WhiteD" /></p>
